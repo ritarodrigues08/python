@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Em desenvolvimento | In development
+> Em desenvolvimento | *Developing*
 
 ## Informações sobre o projeto ✏️
 
@@ -13,12 +13,12 @@
 
 ---
 
-## Project informations ✏️
+*## Project informations* ✏️
 
-- This project consists of a simulation of a hostel management software.
-- Possible actions:
-  - Check available rooms along with their respective features;
-  - Make a reservation
-  - Check-out
-- When a room is reserved, it is removed from the list of available rooms and added to another list of occupied rooms.
-- After the check-out, the room that was reserved returns to the list of available rooms.
+- *This project consists of a simulation of a hostel management software.*
+- *Possible actions:*
+  - *Check available rooms along with their respective features;*
+  - *Make a reservation;*
+  - *Check-out;*
+- *When a room is reserved, it is removed from the list of available rooms and added to another list of occupied rooms.*
+- *After the check-out, the room that was reserved returns to the list of available rooms.*
