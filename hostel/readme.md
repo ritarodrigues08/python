@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+p> [!IMPORTANT]
 > Em desenvolvimento | *Developing*
 
 ## Informações sobre o projeto ✏️
@@ -14,7 +14,7 @@
 ---
 
 
-## *Project informations* <sub>EN</sub> ✏️
+## *Project informations* <sup>EN</sup> ✏️
 
 - *This project consists of a simulation of a hostel management software.*
 - *Possible actions:*
