@@ -14,7 +14,7 @@ p> [!IMPORTANT]
 ---
 
 
-## *Project informations* <sup>EN</sup> ✏️
+##<sup>EN</sup> *Project informations* ✏️
 
 - *This project consists of a simulation of a hostel management software.*
 - *Possible actions:*
