@@ -3,7 +3,7 @@
  Cada projeto tem uma pasta com um ficheiro README com mais detalhes sobre o mesmo.
 
 ## Projetos 🗂️
-- Software de gestão de um hostel
+- hostel.py | Software de gestão de um hostel 
 
 <br>
 <br>
@@ -13,4 +13,4 @@
  Each project has a folder with a README file containing further details about it.
 
  ## Projects 🗂️
-- Software de gestão de um hostel
+- hostel.py | Management software for a hostel
