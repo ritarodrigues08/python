@@ -1,2 +1,2 @@
-# python
- mini projects with python
+# Python
+ Neste pasta estão mini-projetos com a linguagem Python
