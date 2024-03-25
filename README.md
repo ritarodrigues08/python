@@ -14,4 +14,4 @@
 <br>
 <br>
  ## Projects 🗂️
- - Management software for a hostel | folder "hostel"
+ - Hostel management software | folder "hostel"
