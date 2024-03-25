@@ -12,7 +12,7 @@
 - Ao terminar a estadia, o quarto que tinha sido reservado volta para a lista de quartos disponíveis.
 
 ---
-
+<sup>EN</sup>
 ## *Project informations* ✏️
 
 - *This project consists of a simulation of a hostel management software.*
