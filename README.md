@@ -5,11 +5,9 @@
 <br>
 ## Projetos 🗂️
 - Software de gestão de um hostel | pasta "hostel"
-<br>
-<br>
+
 ---------------------------------------
-<br>
-<br>
+
  # Python 💻
  This folder contains mini-projects with Python.<br>
  Each project has a folder with a README file containing further details about it.
